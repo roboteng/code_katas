@@ -1,5 +1,3 @@
-import 'dart:math';
-
 import 'package:code_katas/src/karate_chop/karate_chop.dart';
 
 class Day4 extends KarateChop {
